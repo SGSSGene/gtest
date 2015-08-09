@@ -1,4 +1,5 @@
 {
+	"name": "gtest",
 	"projects":[
 		{ "path": "gtest",
 			"type": "library",
