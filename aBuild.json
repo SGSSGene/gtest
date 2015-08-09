@@ -1,0 +1,11 @@
+{
+	"projects":[
+		{ "path": "gtest",
+			"type": "library",
+			"depLibraries": ["pthread"],
+			"legacy": {
+				"includes":["include/"]
+			}
+		}
+	]
+}
