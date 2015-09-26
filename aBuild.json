@@ -3,6 +3,7 @@
 	"projects":[
 		{ "path": "gtest",
 			"type": "library",
+			"noWarnings": true,
 			"depLibraries": ["pthread"],
 			"legacy": {
 				"includes":["include/"]
