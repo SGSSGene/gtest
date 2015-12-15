@@ -1,0 +1,9 @@
+projects:
+  - legacy:
+      includes:
+        - include/
+    path: gtest
+    noWarnings: true
+    depLibraries:
+      - pthread
+name: gtest
