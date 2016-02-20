@@ -1,9 +1,9 @@
+name: gtest
 projects:
-  - legacy:
+  - path: gtest
+    legacy:
       includes:
         - include/
-    path: gtest
     noWarnings: true
     depLibraries:
       - pthread
-name: gtest
