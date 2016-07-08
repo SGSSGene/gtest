@@ -1,6 +1,6 @@
 name: gtest
 projects:
-  - path: gtest
+  - name: gtest
     legacy:
       includes:
         - include/
