@@ -3,7 +3,7 @@ projects:
   - name: gtest
     legacy:
       includes:
-        - include/
+        - include
     noWarnings: true
     depLibraries:
       - pthread
